@@ -7,6 +7,7 @@ AtliQ Grands is a well-known hotel brand with a great reputation in the hospital
 Even though AtliQ Grands is known for its luxurious accommodations, they've been facing challenges lately. Their market share and revenue are going down because of tough competition and not-so-great management decisions.
 
 **Important Metrics used:**
+
 ➤ RevPAR(Revenue generated per available room(both booked and non-booked)) 
 
 ➤ Occupancy means how many rooms are occupied among all the available rooms. 
@@ -25,9 +26,12 @@ Even though AtliQ Grands is known for its luxurious accommodations, they've been
 
 ➤ Weekend here indicates Friday and Saturday. 
 
+
 *🏨 Throughout the project, I explored how revenue is managed in the hospitality domain.*
 
+
 **💡Skills Learned:**
+
 ➤ Power BI
 
 ➤ Power Query 
@@ -40,7 +44,9 @@ Even though AtliQ Grands is known for its luxurious accommodations, they've been
 
 ➤ Conditional Formatting
 
+
 Check out the complete interactive dashboard on the below link
 https://lnkd.in/gyAvQHbR
+
 
 Special thanks to Dhaval Patel Sir, and Hemanand Vadivel Sir for their awesome guidance and making learning with real-life business lessons.
